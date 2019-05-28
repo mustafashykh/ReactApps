@@ -1,0 +1,3 @@
+[submodule "hubover_theme"]
+	path = hubover_theme
+	url = https://github.com/mustafasheikh1/hubover_theme.git
